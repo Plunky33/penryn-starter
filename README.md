@@ -18,3 +18,4 @@ npm install
 - Rollup
 - Uglify JS 2
 - Skylake
+# penryn-starter-template
