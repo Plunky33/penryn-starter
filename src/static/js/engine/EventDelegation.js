@@ -122,7 +122,7 @@ class EventDelegation {
         // Outro method enable
         this.outroM.on()
 
-        // New intro
+        // New intro Controller method
         newInstance.controller.intro({
             outroArgs: args,
             xhr: xhr,
